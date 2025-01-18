@@ -28,5 +28,6 @@ Copy
 Edit
 http-server
 Open the website in your browser: After the server starts, open your web browser and visit http://localhost:8080 to view the website.
-                            --------------
+
+
 CLICK this link to see the live website https://koteshmurugan.github.io/Hash_Tracer/nft.html
