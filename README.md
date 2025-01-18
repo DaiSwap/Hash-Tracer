@@ -23,6 +23,8 @@ Copy
 Edit
 npm install -g http-server
 Start the local server: Once http-server is installed, run the following command to start the server:
+--------------
+CLICK this link to see the live website https://koteshmurugan.github.io/Hash_Tracer/nft.html
 
 bash
 Copy
